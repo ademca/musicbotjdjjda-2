@@ -250,6 +250,9 @@ client.on('message', message => {
      PREFIX = ${prefix}
      PING = ${Date.now() - message.createdTimestamp}ms
      
+By : AG STORE
+      
+
       message.channel.send({embed});
      }
     });
