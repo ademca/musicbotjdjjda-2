@@ -9,7 +9,7 @@ const fetchVideoInfo = require('youtube-info');
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const prefix = '!';
 client.on('ready', function() {
-    client.user.setGame(`Hla`,"http://twitch.tv/sytra_ayman")
+    client.user.setGame(`!!!!`,"http://twitch.tv/sytra_ayman")
     console.log(`i am ready ${client.user.username}`);
 });
 /*
@@ -249,17 +249,16 @@ client.on('message', message => {
        
      PREFIX = ${prefix}
      PING = ${Date.now() - message.createdTimestamp}ms
-     
-By : AG STORE
-      
-
+     FOR HELP = <@337457211875917834>
+    By : ! OsTaaZz SyTrAAءء $ `)
+ 
       message.channel.send({embed});
      }
     });
  
  
 client.on('message', message => {
-var prefix = "!";
+var prefix = "$";
  
   if (!message.content.startsWith(prefix)) return;
   var args = message.content.split(' ').slice(1);
