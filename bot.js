@@ -249,8 +249,8 @@ client.on('message', message => {
        
      PREFIX = ${prefix}
      PING = ${Date.now() - message.createdTimestamp}ms
-     FOR HELP = <@337457211875917834>
-    By : ! OsTaaZz SyTrAAءء $ `)
+     FOR HELP = @!                  PReDaT0R 'ᴬᴳ#0001 
+    By :AG STORE
  
       message.channel.send({embed});
      }
@@ -258,7 +258,7 @@ client.on('message', message => {
  
  
 client.on('message', message => {
-var prefix = "$";
+var prefix = "!";
  
   if (!message.content.startsWith(prefix)) return;
   var args = message.content.split(' ').slice(1);
