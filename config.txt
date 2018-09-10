@@ -1,4 +1,4 @@
 token=NDg4ODAzODM4Mzg0NTM3NjEw.DnhiFQ.7JH9MKfvXrMUMkP3RvGv1yLuKuE
-owner=408926307372498945
-prefix=-
+owner=477039396726505472
+prefix=H
 stayinchannel=true
